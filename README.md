@@ -1,4 +1,4 @@
-# hello-world
+# hello-world (Aloha)
 Just first Git repository example
 
 bla bla bla
